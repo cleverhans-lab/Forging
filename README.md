@@ -1,8 +1,7 @@
 # On the Necessity of Auditable Algorithmic Definitions for Machine Unlearning
 ## Anvith Thudi, Hengrui Jia, Ilia Shumailov, Nicolas Papernot
 
-This repository contains a Jupyter Notebook going through an outline of implementing a forging attack, found in forging.ipynb. Note it takes various shortcuts not used for actual experiments, for example not creating a seperate D' and randomly selecting batches from that set. 
-
+This repository contains a Jupyter Notebook going through an outline of implementing a forging attack, found in forging.ipynb. 
 ## Citing this work
 
 If you use our repository for academic research, you are highly encouraged, though not required, to cite our paper:
